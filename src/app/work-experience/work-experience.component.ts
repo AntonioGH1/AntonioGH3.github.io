@@ -8,10 +8,3 @@ import { Component } from '@angular/core';
 export class WorkExperienceComponent {
 
 }
-
-//WorkExperience : Array<any> = [];
-//constructor() {}
-
-//ngOnInint(): void {
-  
-//}
