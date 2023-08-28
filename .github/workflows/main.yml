@@ -1,4 +1,4 @@
-name: m CI, CD workflows
+name: master CI, CD workflows
 on: 
   push:
     branches: [ "main"]
