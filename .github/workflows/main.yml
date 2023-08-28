@@ -3,7 +3,7 @@ on:
   push:
     branches: [ "main"]
   pull_request:
-    branches: [ "maui"]
+    branches: [ "main"]
 jobs:
   main:
     runs-on: ubuntu-latest
