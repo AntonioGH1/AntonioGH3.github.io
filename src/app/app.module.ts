@@ -12,7 +12,9 @@ import { WorkExperienceComponent } from './work-experience/work-experience.compo
     WorkExperienceComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule,
+    HttpClienteModule
   ],
   providers: [],
   bootstrap: [AppComponent]
